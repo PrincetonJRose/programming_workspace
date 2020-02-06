@@ -1,0 +1,15 @@
+{
+    "folders": [
+        {
+            "path": "C:\\Users\\Sweep\\eclipse-workspace\\Custom Hangman"
+        },
+        {
+            "path": "C:\\Users\\Sweep\\eclipse-workspace\\Treehouse"
+        }
+    ],
+    "settings": {
+        "javascript.referencesCodeLens.enabled": true,
+        "typescript.implementationsCodeLens.enabled": true,
+        "typescript.referencesCodeLens.enabled": true
+    }
+}

@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<?pydev-testrun version="1.0"?><pydev-testsuite>
+<summary errors="1" failures="0" finished="true" name="Test Run: 0" tests="0" total_time="Finished in: 0.00 secs."/>
+<test location="C:\Users\Sweep\eclipse-workspace\Custom Games\reversegam.py" status="error" test="reversegam" time="0">
+<stdout/>
+<stderr><![CDATA[Traceback (most recent call last):
+  File "C:\Users\Sweep\.p2\pool\plugins\org.python.pydev.core_7.0.3.201811082356\pysrc\_pydev_runfiles\pydev_runfiles.py", line 468, in __get_module_from_str
+    mod = __import__(modname)
+  File "C:\Users\Sweep\eclipse-workspace\Custom Games\reversegam.py", line 93
+    turn = random.randint(0,1):
+                              ^
+SyntaxError: invalid syntax
+ERROR: Module: reversegam could not be imported (file: C:\Users\Sweep\eclipse-workspace\Custom Games\reversegam.py).
+]]></stderr>
+</test>
+<launch mode="run">
+<launch_memento><![CDATA[<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<launchConfiguration local="true" path="Custom Games reversegam.py (1)"/>
+]]></launch_memento>
+</launch>
+</pydev-testsuite>

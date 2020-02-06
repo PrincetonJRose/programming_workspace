@@ -1,0 +1,51 @@
+[2018-10-24 17:44:37.690] [sharedprocess] [info] main {"machineId":"1f17de969d64795a92383d987b71d6ad986e27b1aabaa777cc334032535e8173"}
+[2018-10-24 17:44:37.701] [sharedprocess] [info] Scanned user extensions: 0
+[2018-10-24 17:44:37.724] [sharedprocess] [info] Scanned system extensions: 72
+[2018-10-24 17:44:37.849] [sharedprocess] [info] Scanned user extensions: 0
+[2018-10-24 17:44:37.853] [sharedprocess] [info] Scanned user extensions: 0
+[2018-10-24 17:44:37.853] [sharedprocess] [info] Scanned user extensions: 0
+[2018-10-24 17:44:37.863] [sharedprocess] [info] Scanned user extensions: 0
+[2018-10-24 17:44:37.864] [sharedprocess] [info] Scanned user extensions: 0
+[2018-10-24 17:44:37.937] [sharedprocess] [info] Scanned system extensions: 72
+[2018-10-24 17:44:37.939] [sharedprocess] [info] Scanned system extensions: 72
+[2018-10-24 17:44:37.940] [sharedprocess] [info] Scanned system extensions: 72
+[2018-10-24 17:44:37.942] [sharedprocess] [info] Scanned system extensions: 72
+[2018-10-24 17:44:39.132] [sharedprocess] [info] Scanned user extensions: 0
+[2018-10-24 17:45:17.694] [sharedprocess] [info] Starting to clean up unused language packs.
+[2018-10-24 17:49:39.135] [sharedprocess] [info] Scanned user extensions: 0
+[2018-10-24 17:54:39.137] [sharedprocess] [info] Scanned user extensions: 0
+[2018-10-24 17:59:39.138] [sharedprocess] [info] Scanned user extensions: 0
+[2018-10-24 18:04:39.139] [sharedprocess] [info] Scanned user extensions: 0
+[2018-10-24 18:06:46.020] [sharedprocess] [info] Scanned user extensions: 0
+[2018-10-24 18:06:46.020] [sharedprocess] [info] Scanned user extensions: 0
+[2018-10-24 18:06:46.020] [sharedprocess] [info] Installing the extension: codemix.python-0.9.0
+[2018-10-24 18:06:46.022] [sharedprocess] [info] Scanned user extensions: 0
+[2018-10-24 18:06:46.046] [sharedprocess] [info] Scanned system extensions: 72
+[2018-10-24 18:06:46.062] [sharedprocess] [info] Extracted extension to C:\Users\Sweep\.codemix\extensions\.codemix.python-0.9.0: codemix.python-0.9.0
+[2018-10-24 18:06:46.064] [sharedprocess] [info] Renamed to C:\Users\Sweep\.codemix\extensions\codemix.python-0.9.0
+[2018-10-24 18:06:46.064] [sharedprocess] [info] Installation completed. codemix.python-0.9.0
+[2018-10-24 18:06:46.065] [sharedprocess] [info] Successfully installed the extension: codemix.python-0.9.0
+[2018-10-24 18:06:46.067] [sharedprocess] [info] Scanned user extensions: 1
+[2018-10-24 18:06:46.073] [sharedprocess] [info] Scanned user extensions: 1
+[2018-10-24 18:06:46.093] [sharedprocess] [info] Scanned system extensions: 72
+[2018-10-24 18:06:46.168] [sharedprocess] [info] Scanned user extensions: 1
+[2018-10-24 18:06:46.184] [sharedprocess] [info] Scanned system extensions: 72
+[2018-10-24 18:06:46.311] [sharedprocess] [info] Scanned user extensions: 1
+[2018-10-24 18:06:46.312] [sharedprocess] [info] Scanned user extensions: 1
+[2018-10-24 18:06:46.312] [sharedprocess] [info] Installing the extension: christian-kohler.path-intellisense-1.4.2
+[2018-10-24 18:06:46.314] [sharedprocess] [info] Scanned user extensions: 1
+[2018-10-24 18:06:46.330] [sharedprocess] [info] Scanned system extensions: 72
+[2018-10-24 18:06:46.614] [sharedprocess] [info] Extracted extension to C:\Users\Sweep\.codemix\extensions\.christian-kohler.path-intellisense-1.4.2: christian-kohler.path-intellisense-1.4.2
+[2018-10-24 18:06:46.615] [sharedprocess] [info] Renamed to C:\Users\Sweep\.codemix\extensions\christian-kohler.path-intellisense-1.4.2
+[2018-10-24 18:06:46.615] [sharedprocess] [info] Installation completed. christian-kohler.path-intellisense-1.4.2
+[2018-10-24 18:06:46.617] [sharedprocess] [info] Successfully installed the extension: christian-kohler.path-intellisense-1.4.2
+[2018-10-24 18:06:46.619] [sharedprocess] [info] Scanned user extensions: 2
+[2018-10-24 18:06:46.625] [sharedprocess] [info] Scanned user extensions: 2
+[2018-10-24 18:06:46.641] [sharedprocess] [info] Scanned system extensions: 72
+[2018-10-24 18:06:46.720] [sharedprocess] [info] Scanned user extensions: 2
+[2018-10-24 18:06:46.738] [sharedprocess] [info] Scanned system extensions: 72
+[2018-10-24 18:06:49.674] [sharedprocess] [info] Scanned user extensions: 2
+[2018-10-24 18:06:49.675] [sharedprocess] [info] Scanned user extensions: 2
+[2018-10-24 18:06:49.675] [sharedprocess] [info] Installing the extension: ms-python.python-2018.4.0
+[2018-10-24 18:06:49.680] [sharedprocess] [info] Scanned user extensions: 2
+[2018-10-24 18:06:49.696] [sharedprocess] [info] Scanned system extensions: 72

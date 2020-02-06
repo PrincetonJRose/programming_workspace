@@ -1,0 +1,60 @@
+-- VERSION_5
+-- START DISKCACHE_2
+C:\Users\Sweep\eclipse-workspace\.metadata\.plugins\org.eclipse.core.resources\.projects\Custom Games\com.python.pydev.analysis\v2_indexcache
+reversegam|1548791541008064000|C:\Users\Sweep\eclipse-workspace\Custom Games\reversegam.py
+hangman|1546466417679372000|C:\Users\Sweep\eclipse-workspace\Custom Games\hangman.py
+guess|1543374781260106000|C:\Users\Sweep\eclipse-workspace\Custom Games\guess.py
+bagels|1546120662867781000|C:\Users\Sweep\eclipse-workspace\Custom Games\bagels.py
+reversi|1547355762396867000|C:\Users\Sweep\eclipse-workspace\Custom Games\reversi.py
+dragon|1543470173188875000|C:\Users\Sweep\eclipse-workspace\Custom Games\dragon.py
+sonar|1547264587099405000|C:\Users\Sweep\eclipse-workspace\Custom Games\sonar.py
+tictactoe|1546121993659140000|C:\Users\Sweep\eclipse-workspace\Custom Games\tictactoe.py
+-- END DISKCACHE
+-- START DICTIONARY
+16
+9=C:\Users\Sweep\eclipse-workspace\Custom Games\sonar.py
+1=C:\Users\Sweep\eclipse-workspace\Custom Games\reversegam.py
+12=hangman
+13=C:\Users\Sweep\eclipse-workspace\Custom Games\reversi.py
+15=C:\Users\Sweep\eclipse-workspace\Custom Games\bagels.py
+16=bagels
+14=reversi
+3=C:\Users\Sweep\eclipse-workspace\Custom Games\tictactoe.py
+8=dragon
+10=sonar
+11=C:\Users\Sweep\eclipse-workspace\Custom Games\hangman.py
+2=reversegam
+7=C:\Users\Sweep\eclipse-workspace\Custom Games\dragon.py
+6=guess
+5=C:\Users\Sweep\eclipse-workspace\Custom Games\guess.py
+4=tictactoe
+-- END DICTIONARY
+-- START TREE 1
+23
+che|2|check_move!1^81#5*18@check_winner!3^130#5*34@
+cle|8|clear_screen!5^6#5*50@clear_screen!7^6#5*66@clear_screen!9^9#5*82@clear_screen!11^5#5*98@clear_screen!13^6#5*114@clear_screen!1^5#5*18@clear_screen!15^8#5*130@clear_screen!3^5#5*34@
+com|1|computer_turn!3^81#5*34@
+cre|3|create_board!1^31#5*18@create_visual_board!1^8#5*18@create_board!9^12#5*82@
+dra|3|draw_board!1^44#5*18@draw_board!13^12#5*114@draw_map!9^29#5*82@
+ent|1|enter_player_tile!13^92#5*114@
+gam|6|game_tie!3^149#5*34@game_win!5^25#5*50@game_over!11^114#5*98@game_start!3^21#5*34@game_over!5^9#5*50@game_win!11^120#5*98@
+get|8|get_new_board!13^22#5*114@get_number!15^12#5*130@get_score_of_board!13^80#5*114@get_board_copy!13^124#5*114@get_player_move!13^136#5*114@get_valid_moves!13^71#5*114@get_computer_move!13^157#5*114@get_board_with_valid_moves!13^63#5*114@
+hei|1|HEIGHT!13^10#1*115@
+is_|3|is_on_corner!13^132#5*114@is_on_board!13^59#5*114@is_valid_move!13^28#5*114@
+mai|6|main_game!1^95#5*18@main_game!7^9#5*66@main_game!5^30#5*50@main_game!3^172#5*34@main_game!11^136#5*98@main_game!15^40#5*130@
+mak|1|make_move!13^111#5*114@
+max|3|MAX_CHESTS!9^6#1*83@MAX_SONAR!9^7#1*83@MAX_GUESSES!15^5#1*131@
+num|1|NUM_LENGTH!15^6#1*131@
+pla|10|play_again!15^29#5*130@player_turn!3^49#5*34@player_lose!15^26#5*130@play_again!11^125#5*98@player_win!3^134#5*34@play_again!3^156#5*34@player_lose!9^88#5*82@place_chests!9^23#5*82@player_won!15^22#5*130@player_lose!3^142#5*34@
+pri|1|print_score!13^178#5*114@
+ran|1|random_word!11^100#5*98@
+sho|1|show_board!3^9#5*34@
+sta|1|start_game!11^8#5*98@
+try|1|try_again!5^13#5*50@
+upd|2|update_board!1^90#5*18@update_board!9^75#5*82@
+who|1|who_goes_first!13^104#5*114@
+wid|1|WIDTH!13^9#1*115@
+-- END TREE
+-- START TREE 2
+0
+-- END TREE
